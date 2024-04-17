@@ -1,0 +1,14 @@
+This Project is Developed By Suraj Singh with .Net Core MVC Web Application with .Net 6.0 Framework You ask for 5.0 but this version is not supported on my system coz i am working on .net 8.0 latest framework
+
+so I Developed This In .net 6.0
+
+
+
+For Database i used Sql Server and i am sharing the Database backup file so that you can restore the backup and run the application
+
+
+Tech i used in the project Jquery, Bootstrap, AJAX
+
+for image I upload it in project directory in wwwroot folder with UploadedImage Folder name 
+
+Thanks 

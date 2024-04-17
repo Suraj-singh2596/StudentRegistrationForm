@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Suraj\\Desktop\\StudentRegistrationForm\\StudentRegistrationForm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{85D88C12-59FD-4DC4-BEC9-D89618209B42}|StudentRegistrationForm\\StudentRegistrationForm.csproj|c:\\users\\suraj\\desktop\\studentregistrationform\\studentregistrationform\\studentregistrationform\\bussinesslayer\\studentbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85D88C12-59FD-4DC4-BEC9-D89618209B42}|StudentRegistrationForm\\StudentRegistrationForm.csproj|solutionrelative:studentregistrationform\\bussinesslayer\\studentbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D88C12-59FD-4DC4-BEC9-D89618209B42}|StudentRegistrationForm\\StudentRegistrationForm.csproj|c:\\users\\suraj\\desktop\\studentregistrationform\\studentregistrationform\\studentregistrationform\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85D88C12-59FD-4DC4-BEC9-D89618209B42}|StudentRegistrationForm\\StudentRegistrationForm.csproj|solutionrelative:studentregistrationform\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D88C12-59FD-4DC4-BEC9-D89618209B42}|StudentRegistrationForm\\StudentRegistrationForm.csproj|c:\\users\\suraj\\desktop\\studentregistrationform\\studentregistrationform\\studentregistrationform\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{85D88C12-59FD-4DC4-BEC9-D89618209B42}|StudentRegistrationForm\\StudentRegistrationForm.csproj|solutionrelative:studentregistrationform\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D88C12-59FD-4DC4-BEC9-D89618209B42}|StudentRegistrationForm\\StudentRegistrationForm.csproj|c:\\users\\suraj\\desktop\\studentregistrationform\\studentregistrationform\\studentregistrationform\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85D88C12-59FD-4DC4-BEC9-D89618209B42}|StudentRegistrationForm\\StudentRegistrationForm.csproj|solutionrelative:studentregistrationform\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D88C12-59FD-4DC4-BEC9-D89618209B42}|StudentRegistrationForm\\StudentRegistrationForm.csproj|c:\\users\\suraj\\desktop\\studentregistrationform\\studentregistrationform\\studentregistrationform\\servicelayer\\studentsl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85D88C12-59FD-4DC4-BEC9-D89618209B42}|StudentRegistrationForm\\StudentRegistrationForm.csproj|solutionrelative:studentregistrationform\\servicelayer\\studentsl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D88C12-59FD-4DC4-BEC9-D89618209B42}|StudentRegistrationForm\\StudentRegistrationForm.csproj|c:\\users\\suraj\\desktop\\studentregistrationform\\studentregistrationform\\studentregistrationform\\models\\saveimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85D88C12-59FD-4DC4-BEC9-D89618209B42}|StudentRegistrationForm\\StudentRegistrationForm.csproj|solutionrelative:studentregistrationform\\models\\saveimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D88C12-59FD-4DC4-BEC9-D89618209B42}|StudentRegistrationForm\\StudentRegistrationForm.csproj|c:\\users\\suraj\\desktop\\studentregistrationform\\studentregistrationform\\studentregistrationform\\repositorylayer\\istudentrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85D88C12-59FD-4DC4-BEC9-D89618209B42}|StudentRegistrationForm\\StudentRegistrationForm.csproj|solutionrelative:studentregistrationform\\repositorylayer\\istudentrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D88C12-59FD-4DC4-BEC9-D89618209B42}|StudentRegistrationForm\\StudentRegistrationForm.csproj|c:\\users\\suraj\\desktop\\studentregistrationform\\studentregistrationform\\studentregistrationform\\bussinesslayer\\istudentbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85D88C12-59FD-4DC4-BEC9-D89618209B42}|StudentRegistrationForm\\StudentRegistrationForm.csproj|solutionrelative:studentregistrationform\\bussinesslayer\\istudentbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D88C12-59FD-4DC4-BEC9-D89618209B42}|StudentRegistrationForm\\StudentRegistrationForm.csproj|c:\\users\\suraj\\desktop\\studentregistrationform\\studentregistrationform\\studentregistrationform\\models\\studentinsertrequet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85D88C12-59FD-4DC4-BEC9-D89618209B42}|StudentRegistrationForm\\StudentRegistrationForm.csproj|solutionrelative:studentregistrationform\\models\\studentinsertrequet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D88C12-59FD-4DC4-BEC9-D89618209B42}|StudentRegistrationForm\\StudentRegistrationForm.csproj|c:\\users\\suraj\\desktop\\studentregistrationform\\studentregistrationform\\studentregistrationform\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85D88C12-59FD-4DC4-BEC9-D89618209B42}|StudentRegistrationForm\\StudentRegistrationForm.csproj|solutionrelative:studentregistrationform\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D88C12-59FD-4DC4-BEC9-D89618209B42}|StudentRegistrationForm\\StudentRegistrationForm.csproj|c:\\users\\suraj\\desktop\\studentregistrationform\\studentregistrationform\\studentregistrationform\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{85D88C12-59FD-4DC4-BEC9-D89618209B42}|StudentRegistrationForm\\StudentRegistrationForm.csproj|solutionrelative:studentregistrationform\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Saveimage.cs",
+              "DocumentMoniker": "C:\\Users\\Suraj\\Desktop\\StudentRegistrationForm\\StudentRegistrationForm\\StudentRegistrationForm\\Models\\Saveimage.cs",
+              "RelativeDocumentMoniker": "StudentRegistrationForm\\Models\\Saveimage.cs",
+              "ToolTip": "C:\\Users\\Suraj\\Desktop\\StudentRegistrationForm\\StudentRegistrationForm\\StudentRegistrationForm\\Models\\Saveimage.cs",
+              "RelativeToolTip": "StudentRegistrationForm\\Models\\Saveimage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T18:09:09.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentInsertRequet.cs",
+              "DocumentMoniker": "C:\\Users\\Suraj\\Desktop\\StudentRegistrationForm\\StudentRegistrationForm\\StudentRegistrationForm\\Models\\StudentInsertRequet.cs",
+              "RelativeDocumentMoniker": "StudentRegistrationForm\\Models\\StudentInsertRequet.cs",
+              "ToolTip": "C:\\Users\\Suraj\\Desktop\\StudentRegistrationForm\\StudentRegistrationForm\\StudentRegistrationForm\\Models\\StudentInsertRequet.cs",
+              "RelativeToolTip": "StudentRegistrationForm\\Models\\StudentInsertRequet.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T16:54:19.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Suraj\\Desktop\\StudentRegistrationForm\\StudentRegistrationForm\\StudentRegistrationForm\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "StudentRegistrationForm\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Suraj\\Desktop\\StudentRegistrationForm\\StudentRegistrationForm\\StudentRegistrationForm\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "StudentRegistrationForm\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T16:32:21.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Suraj\\Desktop\\StudentRegistrationForm\\StudentRegistrationForm\\StudentRegistrationForm\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "StudentRegistrationForm\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Suraj\\Desktop\\StudentRegistrationForm\\StudentRegistrationForm\\StudentRegistrationForm\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "StudentRegistrationForm\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-17T16:28:18.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Suraj\\Desktop\\StudentRegistrationForm\\StudentRegistrationForm\\StudentRegistrationForm\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "StudentRegistrationForm\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Suraj\\Desktop\\StudentRegistrationForm\\StudentRegistrationForm\\StudentRegistrationForm\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "StudentRegistrationForm\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAJ4AAAAAAAAAAAAIwJ0AAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T15:16:46.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IStudentRL.cs",
+              "DocumentMoniker": "C:\\Users\\Suraj\\Desktop\\StudentRegistrationForm\\StudentRegistrationForm\\StudentRegistrationForm\\RepositoryLayer\\IStudentRL.cs",
+              "RelativeDocumentMoniker": "StudentRegistrationForm\\RepositoryLayer\\IStudentRL.cs",
+              "ToolTip": "C:\\Users\\Suraj\\Desktop\\StudentRegistrationForm\\StudentRegistrationForm\\StudentRegistrationForm\\RepositoryLayer\\IStudentRL.cs",
+              "RelativeToolTip": "StudentRegistrationForm\\RepositoryLayer\\IStudentRL.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T15:21:04.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IStudentBL.cs",
+              "DocumentMoniker": "C:\\Users\\Suraj\\Desktop\\StudentRegistrationForm\\StudentRegistrationForm\\StudentRegistrationForm\\BussinessLayer\\IStudentBL.cs",
+              "RelativeDocumentMoniker": "StudentRegistrationForm\\BussinessLayer\\IStudentBL.cs",
+              "ToolTip": "C:\\Users\\Suraj\\Desktop\\StudentRegistrationForm\\StudentRegistrationForm\\StudentRegistrationForm\\BussinessLayer\\IStudentBL.cs",
+              "RelativeToolTip": "StudentRegistrationForm\\BussinessLayer\\IStudentBL.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T15:19:55.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentBL.cs",
+              "DocumentMoniker": "C:\\Users\\Suraj\\Desktop\\StudentRegistrationForm\\StudentRegistrationForm\\StudentRegistrationForm\\BussinessLayer\\StudentBL.cs",
+              "RelativeDocumentMoniker": "StudentRegistrationForm\\BussinessLayer\\StudentBL.cs",
+              "ToolTip": "C:\\Users\\Suraj\\Desktop\\StudentRegistrationForm\\StudentRegistrationForm\\StudentRegistrationForm\\BussinessLayer\\StudentBL.cs",
+              "RelativeToolTip": "StudentRegistrationForm\\BussinessLayer\\StudentBL.cs",
+              "ViewState": "AQIAAM4AAAAAAAAAAAAgwNUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T15:17:56.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Suraj\\Desktop\\StudentRegistrationForm\\StudentRegistrationForm\\StudentRegistrationForm\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "StudentRegistrationForm\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Suraj\\Desktop\\StudentRegistrationForm\\StudentRegistrationForm\\StudentRegistrationForm\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "StudentRegistrationForm\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAQwFEAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T10:37:53.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\Suraj\\Desktop\\StudentRegistrationForm\\StudentRegistrationForm\\StudentRegistrationForm\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "StudentRegistrationForm\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\Suraj\\Desktop\\StudentRegistrationForm\\StudentRegistrationForm\\StudentRegistrationForm\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "StudentRegistrationForm\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAACQBAAAAAAAAAAAiwCgBAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-17T12:03:12.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentSL.cs",
+              "DocumentMoniker": "C:\\Users\\Suraj\\Desktop\\StudentRegistrationForm\\StudentRegistrationForm\\StudentRegistrationForm\\ServiceLayer\\StudentSL.cs",
+              "RelativeDocumentMoniker": "StudentRegistrationForm\\ServiceLayer\\StudentSL.cs",
+              "ToolTip": "C:\\Users\\Suraj\\Desktop\\StudentRegistrationForm\\StudentRegistrationForm\\StudentRegistrationForm\\ServiceLayer\\StudentSL.cs",
+              "RelativeToolTip": "StudentRegistrationForm\\ServiceLayer\\StudentSL.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAcwBoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T15:21:46.263Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
